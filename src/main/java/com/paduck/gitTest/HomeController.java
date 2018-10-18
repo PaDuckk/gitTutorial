@@ -34,7 +34,7 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 
 		
-
+		System.out.println("hi");
 		System.out.println("!?3");
 
 		System.out.println("metoo");
